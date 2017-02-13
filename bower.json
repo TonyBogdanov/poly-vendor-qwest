@@ -1,0 +1,23 @@
+{
+  "name": "poly-vendor-qwest",
+  "homepage": "https://github.com/TonyBogdanov/poly-vendor-qwest",
+  "authors": [
+    "Tony Bogdanov <tonybogdanov@gmail.com>"
+  ],
+  "description": "Unambiguous loading of Qwest",
+  "keywords": [
+    "web-components"
+  ],
+  "main": "poly-vendor-qwest.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "qwest": "^4.4.5"
+  }
+}
